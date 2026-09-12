@@ -24,3 +24,33 @@ Công cụ phân tích thông số màu sắc từ hình ảnh và tự động 
 Mở terminal/command prompt tại thư mục dự án và chạy:
 ```bash
 pip install -r requirements.txt
+---
+
+# English Version
+
+# Photo Preset Tracking (photo-look-to-xmp)
+
+An automated tool designed to analyze color parameters and visual tones from reference images and convert them into Adobe Lightroom / Photoshop XMP Presets.
+
+---
+
+## 🌟 Key Features
+
+- **Color Analysis:** Automatically extracts color balance, contrast, and tone parameters from sample photos.
+- **XMP Export:** Generates `.xmp` preset files fully compatible with Adobe Lightroom and Camera Raw.
+- **Dual Interface:**
+  - **GUI Mode:** User-friendly graphical interface with visual controls.
+  - **CLI Mode:** Command-line tool for quick processing and batch operations.
+- **Cross-Platform Build Scripts:** Includes ready-to-use build scripts for both Windows and macOS executable packaging.
+
+---
+
+## 🚀 Installation & Usage
+
+### 1. Prerequisites
+- Python 3.9 or higher.
+
+### 2. Install Dependencies
+Open your terminal or command prompt in the project directory and run:
+```bash
+pip install -r requirements.txt
